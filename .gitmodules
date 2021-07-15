@@ -1,1 +1,4 @@
 
+[submodule "mysite/themes/hugo-resume"]
+	path = mysite/themes/hugo-resume
+	url = https://github.com/eddiewebb/hugo-resume.git
