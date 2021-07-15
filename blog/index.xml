@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Deja Jackson</title>
+    <link>https://dejajackson.me/blog/</link>
+    <description>Recent content in Blogs on Deja Jackson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 16:42:41 -0700</lastBuildDate><atom:link href="https://dejajackson.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Website, Who This?</title>
+      <link>https://dejajackson.me/blog/firstpost/</link>
+      <pubDate>Thu, 15 Jul 2021 16:42:41 -0700</pubDate>
+      
+      <guid>https://dejajackson.me/blog/firstpost/</guid>
+      <description>As can be seen by the new look, my website has moved! It is now in the hands of a static site generator, Hugo. The move from Squarespace will save me $16 a month. Plus I get more flexibility in terms of the content I have on here! GitHub Pages is truly a magical thing. The site is currently under construction but will be fully up and running soon. Looking forward to this new static-y chapter for my website!</description>
+    </item>
+    
+  </channel>
+</rss>
