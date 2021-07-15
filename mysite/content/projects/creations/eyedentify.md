@@ -11,10 +11,14 @@ sitemap:
   priority : 0.8
 ---
 
+![Eyedentify banner](/eyedentify_banner.png)
+
 ## Revolutionary Technology
 
 Eyedentify uses Apple's Vision framework for object recognition.
 Recognition is incredibly fast and done completely on-device, meaning an internet connection is not required.
+
+![Eyedentify screenshot](/eyedentify_screenshot.png)
 
 ## Cutting Edge Object Recognition
 
