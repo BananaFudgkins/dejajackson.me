@@ -12,3 +12,15 @@ profileImage = "/laf_portrait.jpg"
 showEducation = true
 showExperience = true
 showProjects = true
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/deja-jackson-63154494/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/jacksodl23"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://bitbucket.org/bananafudgkins/"
+name = "Bitbucket"
