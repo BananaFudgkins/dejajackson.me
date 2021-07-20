@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Deja Jackson"
 theme = "hugo-resume"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
 address = "Renton, WA"
 firstName = "Deja"
