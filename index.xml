@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jul 2021 12:42:42 -0700</lastBuildDate><atom:link href="https://dejajackson.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CS 205 Pet Adoption Information System</title>
+      <link>https://dejajackson.me/projects/creations/cs-205/</link>
+      <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
+      
+      <guid>https://dejajackson.me/projects/creations/cs-205/</guid>
+      <description>This was the presentation my team and I made of our system:
+ The primary goal of this project was to create an information system that could connect pet shelters with potential adopters. Millions of pets are euthanized every year due to an inability to find an owner.</description>
+    </item>
+    
+    <item>
       <title>Define</title>
       <link>https://dejajackson.me/projects/creations/define/</link>
       <pubDate>Thu, 15 Jul 2021 13:12:41 -0700</pubDate>
