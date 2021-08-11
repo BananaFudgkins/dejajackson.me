@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cs205 on Deja Jackson</title>
+    <link>https://dejajackson.me/tags/cs205/</link>
+    <description>Recent content in cs205 on Deja Jackson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jul 2021 22:22:29 -0700</lastBuildDate><atom:link href="https://dejajackson.me/tags/cs205/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS 205 Pet Adoption Information System</title>
+      <link>https://dejajackson.me/projects/creations/cs-205/</link>
+      <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
+      
+      <guid>https://dejajackson.me/projects/creations/cs-205/</guid>
+      <description>This was the presentation my team and I made of our system:
+ The primary goal of this project was to create an information system that could connect pet shelters with potential adopters. Millions of pets are euthanized every year due to an inability to find an owner.</description>
+    </item>
+    
+  </channel>
+</rss>
