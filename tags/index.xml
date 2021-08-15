@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Deja Jackson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 21:22:02 -0700</lastBuildDate><atom:link href="https://dejajackson.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 09:24:32 -0700</lastBuildDate><atom:link href="https://dejajackson.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cpp</title>
+      <link>https://dejajackson.me/tags/cpp/</link>
+      <pubDate>Sun, 15 Aug 2021 09:24:32 -0700</pubDate>
+      
+      <guid>https://dejajackson.me/tags/cpp/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dss</title>
       <link>https://dejajackson.me/tags/dss/</link>
-      <pubDate>Tue, 10 Aug 2021 21:22:02 -0700</pubDate>
+      <pubDate>Sun, 15 Aug 2021 09:24:32 -0700</pubDate>
       
       <guid>https://dejajackson.me/tags/dss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lafayette</title>
+      <link>https://dejajackson.me/tags/lafayette/</link>
+      <pubDate>Sun, 15 Aug 2021 09:24:32 -0700</pubDate>
+      
+      <guid>https://dejajackson.me/tags/lafayette/</guid>
       <description></description>
     </item>
     
@@ -40,15 +58,6 @@
       <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
       
       <guid>https://dejajackson.me/tags/cs205/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lafayette</title>
-      <link>https://dejajackson.me/tags/lafayette/</link>
-      <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
-      
-      <guid>https://dejajackson.me/tags/lafayette/</guid>
       <description></description>
     </item>
     

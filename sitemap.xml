@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dejajackson.me/projects/creations/webvtt-cli/</loc>
+    <lastmod>2021-08-15T09:24:32-07:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dejajackson.me/projects/creations/ldrguidelines/</loc>
     <lastmod>2021-08-10T21:22:02-07:00</lastmod>
     <priority>0.8</priority>
@@ -19,27 +23,30 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://dejajackson.me/projects/creations/</loc>
-    <lastmod>2021-08-10T21:22:02-07:00</lastmod>
+    <lastmod>2021-08-15T09:24:32-07:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/cpp/</loc>
+    <lastmod>2021-08-15T09:24:32-07:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/dss/</loc>
-    <lastmod>2021-08-10T21:22:02-07:00</lastmod>
+    <lastmod>2021-08-15T09:24:32-07:00</lastmod>
   </url><url>
-    <loc>https://dejajackson.me/tags/hugo/</loc>
-    <lastmod>2021-08-10T21:22:02-07:00</lastmod>
+    <loc>https://dejajackson.me/tags/lafayette/</loc>
+    <lastmod>2021-08-15T09:24:32-07:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/projects/</loc>
-    <lastmod>2021-08-10T21:22:02-07:00</lastmod>
+    <lastmod>2021-08-15T09:24:32-07:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/</loc>
+    <lastmod>2021-08-15T09:24:32-07:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/hugo/</loc>
     <lastmod>2021-08-10T21:22:02-07:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/website/</loc>
     <lastmod>2021-08-10T21:22:02-07:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/cs205/</loc>
-    <lastmod>2021-07-19T22:22:29-07:00</lastmod>
-  </url><url>
-    <loc>https://dejajackson.me/tags/lafayette/</loc>
     <lastmod>2021-07-19T22:22:29-07:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/blog/</loc>
