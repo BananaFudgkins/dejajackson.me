@@ -7,6 +7,4 @@ draft: true
 ---
 
 I'm Deja Jackson, an iOS software engineer. I'm an undergraduate student and have been making iOS apps since middle school.
-The first iOS app I ever made was called Clone, a social network that was not unique in any way.
-Since then, I have gone on to create various products that are currently or soon will be on the App Store.
-I have also made several apps with my team The Three Bruhsketeers including Eyedentify.
+I also have a deep interest in politics and public policy with a specific focus on public health policy. I am constantly seeking opportunities to combine these two interests.
