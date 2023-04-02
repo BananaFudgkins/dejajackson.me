@@ -6,7 +6,7 @@
     <description>Recent content on Deja Jackson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Aug 2021 09:24:32 -0700</lastBuildDate><atom:link href="https://dejajackson.me/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 19:23:46 -0400</lastBuildDate><atom:link href="https://dejajackson.me/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Webvtt CLI</title>
       <link>https://dejajackson.me/projects/creations/webvtt-cli/</link>
@@ -53,6 +53,15 @@ Using the built-in iOS dictionary, you will be able to define each word heard by
       <guid>https://dejajackson.me/projects/creations/eyedentify/</guid>
       <description>Revolutionary Technology Eyedentify uses Apple&amp;rsquo;s Vision framework for object recognition. Recognition is incredibly fast and done completely on-device, meaning an internet connection is not required.
 Cutting Edge Object Recognition To recognize an object, simply point your phone at whatever object you want to recognize and tap the screen. You can also use voice commands such as &amp;ldquo;What am I looking at?&amp;rdquo; and even translate into other languages with &amp;ldquo;What is this in Italian?</description>
+    </item>
+    
+    <item>
+      <title>Peer2power</title>
+      <link>https://dejajackson.me/projects/creations/peer2power/</link>
+      <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
+      
+      <guid>https://dejajackson.me/projects/creations/peer2power/</guid>
+      <description></description>
     </item>
     
   </channel>
