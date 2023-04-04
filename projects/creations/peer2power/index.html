@@ -123,6 +123,13 @@
 <p><img src="/survey_first_q.png" alt="Who emailed an elected representative survey question"> <img src="/survey_second_q.png" alt="Future recruitment likelihood survey question"> <img src="/survey_completion.png" alt="End of study survey completed"></p>
 <p>The app uses Apple&rsquo;s <a href="https://github.com/jacksodl23/ResearchKit-minus-HealthKit" target="_blank">ResearchKit framework</a>
  to present its digital surveys. Digital surveys allow for the instantaneous collection of data.</p>
+<h2 id="custom-built-for-our-study">Custom Built for Our Study</h2>
+<p>Our study measures the effectiveness of friend-to-friend recruitment using a randomized control trial. Similar to the Empower study, participants create a list of contacts who they think would be interested in civic engagement. In our first run of the study, these contacts would be recruited to volunteer for a political campaign. In its current rendition, these contacts should be interested in emailing an elected representative. Once a contact is uploaded, it is randomly assigned to the control or treatment group. Contacts in the treatment group should be contacted to get them to email an elected representative while those in the control group should not be contacted. The app uses a random number generator to determine which group a contact will belong to.</p>
+<p>After generating a list of contacts, participants will log each attempt they made to get a contact to email an elected representative. Every time a participant wants to log an outreach attempt, they will have to answer a survey question asking whether the contact committed to emailing an elected representative.</p>
+<p>The units in our study are student organizations on an undergraduate campus. Participants pick a club to serve as their &ldquo;team&rdquo; in a campus-wide competition with other clubs. Uploading a contact or logging an outreach attempt will award a participant&rsquo;s team a number of points. The team with the highest number of points will win the competition.</p>
+<p>Once the competition is over, participants will be asked to complete an end-of-study survey indicating which contacts emailed an elected representative.</p>
+<h2 id="backend">Backend</h2>
+<p>Peer2Power uses MongoDB as its backend. Atlas App Services is used for authentication and to sync data on a user&rsquo;s device with the cloud. The app&rsquo;s data is stored on MongoDB Atlas.</p>
 
     <p>Project link: <a href="https://apps.apple.com/us/app/peer2power/id1596147066">https://apps.apple.com/us/app/peer2power/id1596147066</a></p>
     <ul class="tags">
