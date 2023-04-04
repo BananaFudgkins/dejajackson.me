@@ -17,3 +17,17 @@ The Peer2Power app arose out of a need to develop a digital solution that could 
 ![Who emailed an elected representative survey question](/survey_first_q.png) ![Future recruitment likelihood survey question](/survey_second_q.png) ![End of study survey completed](/survey_completion.png)
 
 The app uses Apple's [ResearchKit framework](https://github.com/jacksodl23/ResearchKit-minus-HealthKit) to present its digital surveys. Digital surveys allow for the instantaneous collection of data.
+
+## Custom Built for Our Study
+
+Our study measures the effectiveness of friend-to-friend recruitment using a randomized control trial. Similar to the Empower study, participants create a list of contacts who they think would be interested in civic engagement. In our first run of the study, these contacts would be recruited to volunteer for a political campaign. In its current rendition, these contacts should be interested in emailing an elected representative. Once a contact is uploaded, it is randomly assigned to the control or treatment group. Contacts in the treatment group should be contacted to get them to email an elected representative while those in the control group should not be contacted. The app uses a random number generator to determine which group a contact will belong to.
+
+After generating a list of contacts, participants will log each attempt they made to get a contact to email an elected representative. Every time a participant wants to log an outreach attempt, they will have to answer a survey question asking whether the contact committed to emailing an elected representative. 
+
+The units in our study are student organizations on an undergraduate campus. Participants pick a club to serve as their "team" in a campus-wide competition with other clubs. Uploading a contact or logging an outreach attempt will award a participant's team a number of points. The team with the highest number of points will win the competition.
+
+Once the competition is over, participants will be asked to complete an end-of-study survey indicating which contacts emailed an elected representative.
+
+## Backend
+
+Peer2Power uses MongoDB as its backend. Atlas App Services is used for authentication and to sync data on a user's device with the cloud. The app's data is stored on MongoDB Atlas.
