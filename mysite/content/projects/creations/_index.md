@@ -1,1 +1,1 @@
-Here is my previous work.
+Below are examples of software projects I have previously worked on.
