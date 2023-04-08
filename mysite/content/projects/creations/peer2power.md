@@ -14,7 +14,7 @@ The Peer2Power app arose out of a need to develop a digital solution that could 
 
 ## ResearchKit
 
-![Who emailed an elected representative survey question](/survey_first_q.png) ![Future recruitment likelihood survey question](/survey_second_q.png) ![End of study survey completed](/survey_completion.png)
+![Who emailed an elected representative survey question](/peer2power_screenshots/survey/survey_first_q.png) ![Future recruitment likelihood survey question](/peer2power_screenshots/survey/survey_second_q.png) ![End of study survey completed](/peer2power_screenshots/survey/survey_completion.png)
 
 The app uses Apple's [ResearchKit framework](https://github.com/jacksodl23/ResearchKit-minus-HealthKit) to present its digital surveys. Digital surveys allow for the instantaneous collection of data.
 
