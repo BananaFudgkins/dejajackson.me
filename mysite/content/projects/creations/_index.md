@@ -1,1 +1,5 @@
-Below are examples of software projects I have previously worked on.
+---
+title: "Previous Work"
+sitemap:
+  priority : 0.9
+---
