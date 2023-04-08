@@ -13,10 +13,11 @@ firstName = "Deja"
 lastName = "Jackson"
 phone = "1-206-451-3325"
 profileImage = "/Senior Portrait.jpg"
-showBlog = true
+showBlog = false
 showEducation = true
 showExperience = true
 showProjects = true
+showPublications = true
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/deja-jackson-63154494/"
