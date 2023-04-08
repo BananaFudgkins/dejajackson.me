@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deja Jackson</title>
+    <title>Home on Deja Jackson</title>
     <link>https://dejajackson.me/</link>
-    <description>Recent content on Deja Jackson</description>
+    <description>Recent content in Home on Deja Jackson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jul 2021 12:42:42 -0700</lastBuildDate><atom:link href="https://dejajackson.me/index.xml" rel="self" type="application/rss+xml" />
@@ -70,16 +70,6 @@ This tool can be installed via Homebrew as detailed by the readme here.</descrip
       <guid>https://dejajackson.me/projects/creations/cs-205/</guid>
       <description>This was the presentation my team and I made of our system:
 The primary goal of this project was to create an information system that could connect pet shelters with potential adopters. Millions of pets are euthanized every year due to an inability to find an owner.</description>
-    </item>
-    
-    <item>
-      <title>Define</title>
-      <link>https://dejajackson.me/projects/creations/define/</link>
-      <pubDate>Thu, 15 Jul 2021 13:12:41 -0700</pubDate>
-      
-      <guid>https://dejajackson.me/projects/creations/define/</guid>
-      <description>Define is a speech recognition app that allows you to find the definition of the words you hear. Simply point your device at what you want to listen to, and you will be able to define each word.
-Using the built-in iOS dictionary, you will be able to define each word heard by your device.</description>
     </item>
     
     <item>
