@@ -13,3 +13,5 @@ sitemap:
   priority : 0.6
   weight: 0.5
 ---
+
+A collection of presentations I have given and other publications I have been involved in the creation of.
