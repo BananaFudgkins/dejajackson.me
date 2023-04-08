@@ -3,6 +3,7 @@ title: "Eyedentify"
 date: 2021-07-15T13:08:03-07:00
 featured: true
 description: "An object recognition app I developed with two classmates for the defhacks hackathon."
+tags: ["Objective-C","Xcode","Vision","iOS"]
 image: "/eyedentify/eyedentify.png"
 link: "https://itunes.apple.com/us/app/eyedentify-see-whats-around-you/id1234098521?mt=8"
 fact: "This project won us best high school hack"
