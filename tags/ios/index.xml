@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on Deja Jackson</title>
+    <link>https://dejajackson.me/tags/ios/</link>
+    <description>Recent content in iOS on Deja Jackson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 19:23:46 -0400</lastBuildDate><atom:link href="https://dejajackson.me/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peer2Power</title>
+      <link>https://dejajackson.me/projects/creations/peer2power/</link>
+      <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
+      
+      <guid>https://dejajackson.me/projects/creations/peer2power/</guid>
+      <description>The Peer2Power app arose out of a need to develop a digital solution that could meet the needs of the undergraduate research group I was part of. The study I participated on was meant to assess the effectiveness of friend-to-friend recruitment of volunteers for political campaigns. Extant literature examined the effect of social pressure on voter turnout but not volunteer recruitment. We modelled our study on a group called Empower, which used an app to collect contact information and for participants to complete tasks relevant to the study.</description>
+    </item>
+    
+    <item>
+      <title>Eyedentify</title>
+      <link>https://dejajackson.me/projects/creations/eyedentify/</link>
+      <pubDate>Thu, 15 Jul 2021 13:08:03 -0700</pubDate>
+      
+      <guid>https://dejajackson.me/projects/creations/eyedentify/</guid>
+      <description>Revolutionary Technology Eyedentify uses Apple&amp;rsquo;s Vision framework for object recognition. Recognition is incredibly fast and done completely on-device, meaning an internet connection is not required.
+Cutting Edge Object Recognition To recognize an object, simply point your phone at whatever object you want to recognize and tap the screen. You can also use voice commands such as &amp;ldquo;What am I looking at?&amp;rdquo; and even translate into other languages with &amp;ldquo;What is this in Italian?</description>
+    </item>
+    
+  </channel>
+</rss>
