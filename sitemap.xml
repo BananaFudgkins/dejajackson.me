@@ -2,8 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dejajackson.me/publications/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url><url>
     <loc>https://dejajackson.me/projects/creations/peer2power/</loc>
     <lastmod>2023-04-02T19:23:46-04:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dejajackson.me/publications/onehealth/</loc>
+    <lastmod>2022-09-16T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>https://dejajackson.me/projects/creations/webvtt-cli/</loc>
@@ -28,6 +36,7 @@
   </url><url>
     <loc>https://dejajackson.me/projects/creations/</loc>
     <lastmod>2023-04-02T19:23:46-04:00</lastmod>
+    <priority>0.9</priority>
   </url><url>
     <loc>https://dejajackson.me/projects/</loc>
     <lastmod>2023-04-02T19:23:46-04:00</lastmod>
@@ -36,8 +45,21 @@
     <lastmod>2021-07-15T12:42:42-07:00</lastmod>
     <priority>1</priority>
   </url><url>
-    <loc>https://dejajackson.me/categories/</loc>
+    <loc>https://dejajackson.me/tags/in/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/techtags/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/used/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/website/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/categories/</loc>
   </url>
 </urlset>

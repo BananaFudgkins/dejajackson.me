@@ -17,12 +17,22 @@
     </item>
     
     <item>
+      <title>From Policy to Product: Enabling One Health Through Technology</title>
+      <link>https://dejajackson.me/publications/onehealth/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dejajackson.me/publications/onehealth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Webvtt CLI</title>
       <link>https://dejajackson.me/projects/creations/webvtt-cli/</link>
       <pubDate>Sun, 15 Aug 2021 09:24:32 -0700</pubDate>
       
       <guid>https://dejajackson.me/projects/creations/webvtt-cli/</guid>
-      <description>I wrote this tool in C++ while I was working with Skillman Library at Lafayette College. For our video captioning workflow, we wrote captions in a spreadsheet. To display subtitles over a video, this spreadsheet would need to be converted into an appropriate VTT file.</description>
+      <description>I wrote this CLI in C++ while I was working with Skillman Library at Lafayette College. For our video captioning workflow, we wrote captions in a spreadsheet. To display subtitles over a video, this spreadsheet would need to be converted into an appropriate VTT file. This tool can take multiple CSV files as input and write them to separate VTT files that can be added to a video.
+This tool can be installed via Homebrew as detailed by the readme here.</description>
     </item>
     
     <item>
