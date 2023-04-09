@@ -17,6 +17,7 @@ showBlog = false
 showEducation = true
 showExperience = true
 showProjects = true
+showOpenSource = true
 showPublications = true
 
 [[params.handles]]
