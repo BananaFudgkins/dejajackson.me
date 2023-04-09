@@ -6,7 +6,7 @@
     <description>Recent content in used on Deja Jackson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://dejajackson.me/tags/used/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2023 13:50:36 -0400</lastBuildDate><atom:link href="https://dejajackson.me/tags/used/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://dejajackson.me/publications/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://dejajackson.me/publications/</guid>
       <description>A collection of presentations I have given and other publications I have been involved in the creation of.</description>
+    </item>
+    
+    <item>
+      <title>Contributions</title>
+      <link>https://dejajackson.me/projects/contributions/</link>
+      <pubDate>Sun, 09 Apr 2023 13:50:36 -0400</pubDate>
+      
+      <guid>https://dejajackson.me/projects/contributions/</guid>
+      <description></description>
     </item>
     
   </channel>

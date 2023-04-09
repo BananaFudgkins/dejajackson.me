@@ -6,6 +6,14 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
+    <loc>https://dejajackson.me/projects/contributions/researchkitfork/</loc>
+    <lastmod>2023-04-09T13:50:46-04:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://dejajackson.me/projects/contributions/</loc>
+    <lastmod>2023-04-09T13:50:36-04:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dejajackson.me/projects/creations/peer2power/</loc>
     <lastmod>2023-04-02T19:23:46-04:00</lastmod>
     <priority>0.8</priority>
@@ -42,6 +50,24 @@
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://dejajackson.me/projects/</loc>
+    <lastmod>2023-04-09T13:50:46-04:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/in/</loc>
+    <lastmod>2023-04-09T13:50:36-04:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/</loc>
+    <lastmod>2023-04-09T13:50:36-04:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/techtags/</loc>
+    <lastmod>2023-04-09T13:50:36-04:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/used/</loc>
+    <lastmod>2023-04-09T13:50:36-04:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/website/</loc>
+    <lastmod>2023-04-09T13:50:36-04:00</lastmod>
+  </url><url>
     <loc>https://dejajackson.me/tags/ios/</loc>
     <lastmod>2023-04-02T19:23:46-04:00</lastmod>
   </url><url>
@@ -52,16 +78,10 @@
     <lastmod>2023-04-02T19:23:46-04:00</lastmod>
     <priority>0.9</priority>
   </url><url>
-    <loc>https://dejajackson.me/projects/</loc>
-    <lastmod>2023-04-02T19:23:46-04:00</lastmod>
-  </url><url>
     <loc>https://dejajackson.me/tags/swift/</loc>
     <lastmod>2023-04-02T19:23:46-04:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/swiftui/</loc>
-    <lastmod>2023-04-02T19:23:46-04:00</lastmod>
-  </url><url>
-    <loc>https://dejajackson.me/tags/</loc>
     <lastmod>2023-04-02T19:23:46-04:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/xcode/</loc>
@@ -103,18 +123,6 @@
     <loc>https://dejajackson.me/</loc>
     <lastmod>2021-07-15T12:42:42-07:00</lastmod>
     <priority>1</priority>
-  </url><url>
-    <loc>https://dejajackson.me/tags/in/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dejajackson.me/tags/techtags/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dejajackson.me/tags/used/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dejajackson.me/tags/website/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/categories/</loc>
   </url>

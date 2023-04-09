@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contributions on Deja Jackson</title>
+    <link>https://dejajackson.me/projects/contributions/</link>
+    <description>Recent content in Contributions on Deja Jackson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 13:50:36 -0400</lastBuildDate><atom:link href="https://dejajackson.me/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ResearchKit Fork</title>
+      <link>https://dejajackson.me/projects/contributions/researchkitfork/</link>
+      <pubDate>Sun, 09 Apr 2023 13:50:46 -0400</pubDate>
+      
+      <guid>https://dejajackson.me/projects/contributions/researchkitfork/</guid>
+      <description>I made this fork while developing Peer2Power because I wanted to use the native and well-designed surveys provided by Apple&amp;rsquo;s ResearchKit framework . I ran into issues because ResearchKit was originally created to support medical research. However, the study I was building Peer2Power for did not need any medical information. Even though I was not using any features that accessed medical information, the framework still referenced code that did. This became an issue when I submitted the app to Apple for distribution on the App Store.</description>
+    </item>
+    
+  </channel>
+</rss>
