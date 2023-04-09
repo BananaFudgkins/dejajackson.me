@@ -26,11 +26,13 @@
   {
     "role":"Digital Platform Manager",
     "company":"[ABC Archives Project, Lafayette College](https://scalar.lafayette.edu/abcarchives/index)",
+    "summary":"Managed the Scalar book the content of the archives were to go in. Oversaw the overall design of the website meant to host the archive.",
     "range":"May 2021 - September 2021"
   },
   {
     "role":"Tech Lead and Research Assistant",
     "company":"[Gov Lab, Lafayette College](https://sites.lafayette.edu/clarkeaj/gov-lab/)",
+    "summary":"Led the tech team of the Gov Lab research group to develop an app that could facilitate a study in line with our experimental design. I wrote an iOS app in SwiftUI while another student wrote a web version of the app. The app shipped on the App Store.",
     "range":"June 2021 - Present"
   },
   {
