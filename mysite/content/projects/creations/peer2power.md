@@ -15,13 +15,19 @@ The Peer2Power app arose out of a need to develop a digital solution that could 
 
 ## ResearchKit
 
-![Who emailed an elected representative survey question](/peer2power_screenshots/survey/survey_first_q.png) ![Future recruitment likelihood survey question](/peer2power_screenshots/survey/survey_second_q.png) ![End of study survey completed](/peer2power_screenshots/survey/survey_completion.png)
+<img src="/peer2power_screenshots/survey/survey_first_q.png" alt="Who emailed an elected representative survey question" width="25%" height="75%"> <img src="/peer2power_screenshots/survey/survey_second_q.png" alt="Future recruitment likelihood survey question" width="25%" height="75%"> <img src="/peer2power_screenshots/survey/survey_completion.png" alt="End of study survey completed" width="25%" height="75%">
 
 The app uses Apple's [ResearchKit framework](https://github.com/jacksodl23/ResearchKit-minus-HealthKit) to present its digital surveys. Digital surveys allow for the instantaneous collection of data.
 
 ## Custom Built for Our Study
 
-Our study measures the effectiveness of friend-to-friend recruitment using a randomized control trial. Similar to the Empower study, participants create a list of contacts who they think would be interested in civic engagement. In our first run of the study, these contacts would be recruited to volunteer for a political campaign. In its current rendition, these contacts should be interested in emailing an elected representative. Once a contact is uploaded, it is randomly assigned to the control or treatment group. Contacts in the treatment group should be contacted to get them to email an elected representative while those in the control group should not be contacted. The app uses a random number generator to determine which group a contact will belong to.
+I initially joined this research team as a research assistant. However, my role quickly changed when a need arose for an in-house solution for an app to carry out our field study after we were unable to find an existing app that aligned with our experimental design. I knew that I could use my iOS development skillset to contribute to the team in a unique way. I personally offered to build the app we needed. Our study measures the effectiveness of friend-to-friend recruitment using a randomized control trial.
+
+### Contacts List
+
+<img src="/peer2power_screenshots/contacts_list.png" alt="Contacts list" width="25%" height="75%">  Similar to the [Turnout Nation study,](https://empowerproject.us/turnout-nation-digs-into-local-elections-and-creates-lifetime-voters-using-friend-to-friend-voter-mobilization/) participants upload a list of contacts who they think are interested in civic engagement. 
+
+In our first run of the study, these contacts would be recruited to volunteer for a political campaign. In its current rendition, these contacts should be interested in emailing an elected representative. Once a contact is uploaded, it is randomly assigned to the control or treatment group. Contacts in the treatment group should be contacted to get them to email an elected representative while those in the control group should not be contacted. The app uses a random number generator to determine which group a contact will belong to.
 
 After generating a list of contacts, participants will log each attempt they made to get a contact to email an elected representative. Every time a participant wants to log an outreach attempt, they will have to answer a survey question asking whether the contact committed to emailing an elected representative. 
 
