@@ -4,7 +4,7 @@ date: 2022-05-06T09:36:39-04:00
 featured: true
 description: "An interactive map I created for my GOVT 275 final project on town halls and the legislative effectiveness of members of Congress."
 tags: ["R","RStudio","Tigris","Leaflet"]
-image: "/govt275/govt275mapscreenshot.png"
+image: "/govt275/lesmap.png"
 link: "https://github.com/jacksodl23/govt275finalprojectmap"
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 500
