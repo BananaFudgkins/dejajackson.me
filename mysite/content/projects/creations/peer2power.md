@@ -5,7 +5,7 @@ featured: true
 description: "An iOS app I wrote in SwiftUI for an undergraduate research project."
 tags: ["SwiftUI","Swift","Xcode","MongoDB","iOS"]
 image: "/Peer2Power logo.png"
-link: "https://apps.apple.com/us/app/peer2power/id1596147066"
+link: "https://github.com/Peer2Power/peer2power-swiftui"
 weight: 500
 sitemap:
   priority : 0.8
