@@ -2,3 +2,6 @@
 [submodule "mysite/themes/hugo-resume"]
 	path = mysite/themes/hugo-resume
 	url = https://github.com/eddiewebb/hugo-resume.git
+[submodule "themes/hugo-embed-pdf-shortcode"]
+	path = mysite/themes/hugo-embed-pdf-shortcode
+	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
