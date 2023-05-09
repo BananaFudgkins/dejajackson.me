@@ -1,7 +1,8 @@
 baseURL = "https://dejajackson.me/"
 languageCode = "en-us"
 title = "Deja Jackson"
-theme = "hugo-resume"
+theme = ["hugo-embed-pdf-shortcode", "hugo-resume"]
+enableInlineShortcodes = true
 
 [markup.goldmark.renderer]
   unsafe = true
