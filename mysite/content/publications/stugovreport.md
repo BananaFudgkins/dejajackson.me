@@ -13,3 +13,19 @@ sitemap:
 This report was mentioned in [this Lafayette student newspaper article.](https://lafayettestudentnews.com/149091/news/data-community-club-breaks-down-student-government-budget/)
 
 {{< embed-pdf url="/StuGov_Auditing_Report_2022-2023.pdf" >}}
+
+## Figures
+
+I made a series of visualizations in RStudio for this report. You can view them below.
+
+![Difference of categorical average funding from the aggregate average](/stugov_report_visualizations/diff_cat_avg_agg_avg.png) This graph was made in Google Sheets due as this was a last minute addition and there were time constraints.
+
+![Percent breakdown of budget allocations](/stugov_report_visualizations/all_prop_by_category.png)
+
+![Average budget allocations by club category](/stugov_report_visualizations/avg_alls.png)
+
+![Average budget allocations by club category](/stugov_report_visualizations/avg_alls.png)
+
+![Amount requested vs amount allocated by club category](/stugov_report_visualizations/req_vs_all.png)
+
+![Percent change in funding allocation from Fall 2022 semester - Spring 2023 semester](/stugov_report_visualizations/pct_change_semesters.png)
