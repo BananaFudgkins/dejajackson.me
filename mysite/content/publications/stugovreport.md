@@ -24,8 +24,6 @@ I made a series of visualizations in RStudio for this report. You can view them 
 
 ![Average budget allocations by club category](/stugov_report_visualizations/avg_alls.png)
 
-![Average budget allocations by club category](/stugov_report_visualizations/avg_alls.png)
-
 ![Amount requested vs amount allocated by club category](/stugov_report_visualizations/req_vs_all.png)
 
 ![Percent change in funding allocation from Fall 2022 semester - Spring 2023 semester](/stugov_report_visualizations/pct_change_semesters.png)
