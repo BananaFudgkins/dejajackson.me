@@ -13,7 +13,7 @@ sitemap:
 
 The Peer2Power app arose out of a need to develop a digital solution that could meet the needs of the [undergraduate research group](https://sites.lafayette.edu/clarkeaj/gov-lab/) I was part of. The study I participated on was meant to assess the effectiveness of friend-to-friend recruitment of volunteers for political campaigns. Extant literature examined the effect of social pressure on voter turnout but not volunteer recruitment. We modelled our study on a group called Empower, which used an app to collect contact information and for participants to complete tasks relevant to the study. However, Empower's study focused on voter turnout. After surveying civic involvement apps already on the market, we were unable to find one that fit our exact needs. Thus, I developed a custom app that focused on volunteer recruitment, supported random assignment into control and treatment groups, and provided digital surveys we could use to collect relevant data.
 
-## Custom Built for Our Study
+## Custom Built for A Research Study
 
 I initially joined this research team as a research assistant. However, my role quickly changed when a need arose for an in-house solution for an app to carry out our field study after we were unable to find an existing app that aligned with our experimental design. I knew that I could use my iOS development skillset to contribute to the team in a unique way. I personally offered to build the app we needed. Our study measures the effectiveness of friend-to-friend recruitment using a randomized control trial.
 
