@@ -6,5 +6,5 @@ sitemap:
 draft: true
 ---
 
-I'm Deja Jackson, an iOS software engineer. I'm an undergraduate student and have been making iOS apps since middle school.
+I'm Deja Jackson, an iOS software engineer. I have been making iOS apps since middle school.
 I also have a deep interest in politics and public policy with a specific focus on public health policy. I am constantly seeking opportunities to combine these two interests.
