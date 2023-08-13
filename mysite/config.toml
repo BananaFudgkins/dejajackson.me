@@ -28,3 +28,7 @@ name = "LinkedIn"
 [[params.handles]]
 link = "https://github.com/jacksodl23"
 name = "GitHub"
+
+[[params.handles]]
+link = "https://github.com/BananaFudgkins"
+name = "GitHub"
