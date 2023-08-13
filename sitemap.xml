@@ -6,6 +6,10 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
+    <loc>https://dejajackson.me/publications/peer2poweroverview/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://dejajackson.me/publications/stugovreport/</loc>
     <lastmod>2023-05-05T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
@@ -54,13 +58,16 @@
     <lastmod>2021-05-23T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://dejajackson.me/tags/peer2power/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dejajackson.me/tags/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dejajackson.me/projects/</loc>
     <lastmod>2023-04-09T13:50:46-04:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/in/</loc>
-    <lastmod>2023-04-09T13:50:36-04:00</lastmod>
-  </url><url>
-    <loc>https://dejajackson.me/tags/</loc>
     <lastmod>2023-04-09T13:50:36-04:00</lastmod>
   </url><url>
     <loc>https://dejajackson.me/tags/techtags/</loc>
