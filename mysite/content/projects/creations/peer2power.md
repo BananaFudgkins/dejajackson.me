@@ -3,7 +3,7 @@ title: "Peer2Power"
 date: 2023-04-02T19:23:46-04:00
 featured: true
 description: "An iOS app I wrote in SwiftUI for an undergraduate research project."
-tags: ["SwiftUI","Swift","Xcode","MongoDB","iOS"]
+tags: ["SwiftUI","Swift","Xcode","MongoDB","iOS","Peer2Power"]
 image: "/Peer2Power logo.png"
 link: "https://github.com/Peer2Power/peer2power-swiftui"
 weight: 500
