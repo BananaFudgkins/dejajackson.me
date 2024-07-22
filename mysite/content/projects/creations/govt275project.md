@@ -14,4 +14,4 @@ sitemap:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKpTUReXn98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-You can view the interactive map [here.](/govt275/govt275map.html)
+You can view the interactive map [here.](/govt275/lesmap.html)
