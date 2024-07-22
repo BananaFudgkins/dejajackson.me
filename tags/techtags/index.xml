@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>techtags on Deja Jackson</title>
+    <title>Techtags on Deja Jackson</title>
     <link>https://dejajackson.me/tags/techtags/</link>
-    <description>Recent content in techtags on Deja Jackson</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Techtags on Deja Jackson</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2023 13:50:36 -0400</lastBuildDate><atom:link href="https://dejajackson.me/tags/techtags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2023 13:50:36 -0400</lastBuildDate>
+    <atom:link href="https://dejajackson.me/tags/techtags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>https://dejajackson.me/publications/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://dejajackson.me/publications/</guid>
       <description>A collection of presentations I have given and other publications I have been involved in the creation of.</description>
     </item>
-    
     <item>
       <title>Contributions</title>
       <link>https://dejajackson.me/projects/contributions/</link>
       <pubDate>Sun, 09 Apr 2023 13:50:36 -0400</pubDate>
-      
       <guid>https://dejajackson.me/projects/contributions/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -4,17 +4,16 @@
     <title>Static Site Generator on Deja Jackson</title>
     <link>https://dejajackson.me/tags/static-site-generator/</link>
     <description>Recent content in Static Site Generator on Deja Jackson</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Aug 2021 21:22:02 -0700</lastBuildDate><atom:link href="https://dejajackson.me/tags/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Aug 2021 21:22:02 -0700</lastBuildDate>
+    <atom:link href="https://dejajackson.me/tags/static-site-generator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lafayette Digital Repository Metadata Dictionary &amp; Creation Guidelines</title>
       <link>https://dejajackson.me/projects/creations/ldrguidelines/</link>
       <pubDate>Tue, 10 Aug 2021 21:22:02 -0700</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/ldrguidelines/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

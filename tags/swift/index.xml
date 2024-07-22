@@ -4,17 +4,16 @@
     <title>Swift on Deja Jackson</title>
     <link>https://dejajackson.me/tags/swift/</link>
     <description>Recent content in Swift on Deja Jackson</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 19:23:46 -0400</lastBuildDate><atom:link href="https://dejajackson.me/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 19:23:46 -0400</lastBuildDate>
+    <atom:link href="https://dejajackson.me/tags/swift/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peer2Power</title>
       <link>https://dejajackson.me/projects/creations/peer2power/</link>
       <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/peer2power/</guid>
       <description>The Peer2Power app arose out of a need to develop a digital solution that could meet the needs of the undergraduate research group I was part of. The study I participated on was meant to assess the effectiveness of friend-to-friend recruitment of volunteers for political campaigns. Extant literature examined the effect of social pressure on voter turnout but not volunteer recruitment. We modelled our study on a group called Empower, which used an app to collect contact information and for participants to complete tasks relevant to the study.</description>
     </item>
-    
   </channel>
 </rss>

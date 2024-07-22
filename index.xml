@@ -4,121 +4,93 @@
     <title>Home on Deja Jackson</title>
     <link>https://dejajackson.me/</link>
     <description>Recent content in Home on Deja Jackson</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jul 2021 12:42:42 -0700</lastBuildDate><atom:link href="https://dejajackson.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dejajackson.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peer2Power Overview</title>
       <link>https://dejajackson.me/publications/peer2poweroverview/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://dejajackson.me/publications/peer2poweroverview/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Student Government Budget Audit Report</title>
       <link>https://dejajackson.me/publications/stugovreport/</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://dejajackson.me/publications/stugovreport/</guid>
-      <description>This report was mentioned in this Lafayette student newspaper article. Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. Figures I made a series of visualizations in RStudio for this report. You can view them below.
-This graph was made in Google Sheets due as this was a last minute addition and there were time constraints.</description>
+      <description>This report was mentioned in this Lafayette student newspaper article. Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. Figures I made a series of visualizations in RStudio for this report. You can view them below.&#xA;This graph was made in Google Sheets due as this was a last minute addition and there were time constraints.</description>
     </item>
-    
     <item>
       <title>ResearchKit Fork</title>
       <link>https://dejajackson.me/projects/contributions/researchkitfork/</link>
       <pubDate>Sun, 09 Apr 2023 13:50:46 -0400</pubDate>
-      
       <guid>https://dejajackson.me/projects/contributions/researchkitfork/</guid>
       <description>I made this fork while developing Peer2Power because I wanted to use the native and well-designed surveys provided by Apple&amp;rsquo;s ResearchKit framework . I ran into issues because ResearchKit was originally created to support medical research. However, the study I was building Peer2Power for did not need any medical information. Even though I was not using any features that accessed medical information, the framework still referenced code that did. This became an issue when I submitted the app to Apple for distribution on the App Store.</description>
     </item>
-    
     <item>
       <title>Peer2Power</title>
       <link>https://dejajackson.me/projects/creations/peer2power/</link>
       <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/peer2power/</guid>
       <description>The Peer2Power app arose out of a need to develop a digital solution that could meet the needs of the undergraduate research group I was part of. The study I participated on was meant to assess the effectiveness of friend-to-friend recruitment of volunteers for political campaigns. Extant literature examined the effect of social pressure on voter turnout but not volunteer recruitment. We modelled our study on a group called Empower, which used an app to collect contact information and for participants to complete tasks relevant to the study.</description>
     </item>
-    
     <item>
       <title>From Policy to Product: Enabling One Health Through Technology</title>
       <link>https://dejajackson.me/publications/onehealth/</link>
       <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://dejajackson.me/publications/onehealth/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GOVT 275 Legislative Effectiveness Project</title>
       <link>https://dejajackson.me/projects/creations/govt275project/</link>
       <pubDate>Fri, 06 May 2022 09:36:39 -0400</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/govt275project/</guid>
       <description> You can view the interactive map here. </description>
     </item>
-    
     <item>
       <title>Mandatory Nurse-to-Patient Ratios GOVT 275 Experimental Design Overview</title>
       <link>https://dejajackson.me/publications/govt275designpresentation/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://dejajackson.me/publications/govt275designpresentation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Webvtt CLI</title>
       <link>https://dejajackson.me/projects/creations/webvtt-cli/</link>
       <pubDate>Sun, 15 Aug 2021 09:24:32 -0700</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/webvtt-cli/</guid>
-      <description>I wrote this CLI in C++ while I was working with Skillman Library at Lafayette College. For our video captioning workflow, we wrote captions in a spreadsheet. To display subtitles over a video, this spreadsheet would need to be converted into an appropriate VTT file. This tool can take multiple CSV files as input and write them to separate VTT files that can be added to a video.
-This tool can be installed via Homebrew as detailed by the readme here.</description>
+      <description>I wrote this CLI in C++ while I was working with Skillman Library at Lafayette College. For our video captioning workflow, we wrote captions in a spreadsheet. To display subtitles over a video, this spreadsheet would need to be converted into an appropriate VTT file. This tool can take multiple CSV files as input and write them to separate VTT files that can be added to a video.&#xA;This tool can be installed via Homebrew as detailed by the readme here.</description>
     </item>
-    
     <item>
       <title>Lafayette Digital Repository Metadata Dictionary &amp; Creation Guidelines</title>
       <link>https://dejajackson.me/projects/creations/ldrguidelines/</link>
       <pubDate>Tue, 10 Aug 2021 21:22:02 -0700</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/ldrguidelines/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Breadnbutter</title>
       <link>https://dejajackson.me/projects/creations/cs-205/</link>
       <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/cs-205/</guid>
-      <description>This was the presentation my team and I made of our system called &amp;ldquo;Breadnbutter&amp;rdquo;:
-The primary goal of this project was to create an information system that could connect pet shelters with potential adopters. Millions of pets are euthanized every year due to an inability to find an owner.
-My team and I built this system in Qt Creator and wrote it in C++. I was responsible for the SQL queries our system would make.</description>
+      <description>This was the presentation my team and I made of our system called &amp;ldquo;Breadnbutter&amp;rdquo;:&#xA;The primary goal of this project was to create an information system that could connect pet shelters with potential adopters. Millions of pets are euthanized every year due to an inability to find an owner.&#xA;My team and I built this system in Qt Creator and wrote it in C++. I was responsible for the SQL queries our system would make.</description>
     </item>
-    
     <item>
       <title>Eyedentify</title>
       <link>https://dejajackson.me/projects/creations/eyedentify/</link>
       <pubDate>Thu, 15 Jul 2021 13:08:03 -0700</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/eyedentify/</guid>
-      <description>Revolutionary Technology Eyedentify uses Apple&amp;rsquo;s Vision framework for object recognition. Recognition is incredibly fast and done completely on-device, meaning an internet connection is not required.
-Cutting Edge Object Recognition To recognize an object, simply point your phone at whatever object you want to recognize and tap the screen. You can also use voice commands such as &amp;ldquo;What am I looking at?&amp;rdquo; and even translate into other languages with &amp;ldquo;What is this in Italian?</description>
+      <description>Revolutionary Technology Eyedentify uses Apple&amp;rsquo;s Vision framework for object recognition. Recognition is incredibly fast and done completely on-device, meaning an internet connection is not required.&#xA;Cutting Edge Object Recognition To recognize an object, simply point your phone at whatever object you want to recognize and tap the screen. You can also use voice commands such as &amp;ldquo;What am I looking at?&amp;rdquo; and even translate into other languages with &amp;ldquo;What is this in Italian?</description>
     </item>
-    
     <item>
       <title>AIAN Pandemic Response GOVT 101 Policy Proposal</title>
       <link>https://dejajackson.me/publications/govt101proposal/</link>
       <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://dejajackson.me/publications/govt101proposal/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

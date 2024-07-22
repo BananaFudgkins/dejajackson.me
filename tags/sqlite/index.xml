@@ -4,19 +4,16 @@
     <title>SQLite on Deja Jackson</title>
     <link>https://dejajackson.me/tags/sqlite/</link>
     <description>Recent content in SQLite on Deja Jackson</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jul 2021 22:22:29 -0700</lastBuildDate><atom:link href="https://dejajackson.me/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jul 2021 22:22:29 -0700</lastBuildDate>
+    <atom:link href="https://dejajackson.me/tags/sqlite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Breadnbutter</title>
       <link>https://dejajackson.me/projects/creations/cs-205/</link>
       <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
-      
       <guid>https://dejajackson.me/projects/creations/cs-205/</guid>
-      <description>This was the presentation my team and I made of our system called &amp;ldquo;Breadnbutter&amp;rdquo;:
-The primary goal of this project was to create an information system that could connect pet shelters with potential adopters. Millions of pets are euthanized every year due to an inability to find an owner.
-My team and I built this system in Qt Creator and wrote it in C++. I was responsible for the SQL queries our system would make.</description>
+      <description>This was the presentation my team and I made of our system called &amp;ldquo;Breadnbutter&amp;rdquo;:&#xA;The primary goal of this project was to create an information system that could connect pet shelters with potential adopters. Millions of pets are euthanized every year due to an inability to find an owner.&#xA;My team and I built this system in Qt Creator and wrote it in C++. I was responsible for the SQL queries our system would make.</description>
     </item>
-    
   </channel>
 </rss>

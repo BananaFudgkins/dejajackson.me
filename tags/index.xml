@@ -4,197 +4,156 @@
     <title>Tags on Deja Jackson</title>
     <link>https://dejajackson.me/tags/</link>
     <description>Recent content in Tags on Deja Jackson</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dejajackson.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dejajackson.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Peer2Power</title>
       <link>https://dejajackson.me/tags/peer2power/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://dejajackson.me/tags/peer2power/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>in</title>
+      <title>In</title>
       <link>https://dejajackson.me/tags/in/</link>
       <pubDate>Sun, 09 Apr 2023 13:50:36 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/in/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>techtags</title>
+      <title>Techtags</title>
       <link>https://dejajackson.me/tags/techtags/</link>
       <pubDate>Sun, 09 Apr 2023 13:50:36 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/techtags/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>used</title>
+      <title>Used</title>
       <link>https://dejajackson.me/tags/used/</link>
       <pubDate>Sun, 09 Apr 2023 13:50:36 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/used/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>website</title>
+      <title>Website</title>
       <link>https://dejajackson.me/tags/website/</link>
       <pubDate>Sun, 09 Apr 2023 13:50:36 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/website/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>iOS</title>
+      <title>IOS</title>
       <link>https://dejajackson.me/tags/ios/</link>
       <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/ios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>MongoDB</title>
       <link>https://dejajackson.me/tags/mongodb/</link>
       <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/mongodb/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Swift</title>
       <link>https://dejajackson.me/tags/swift/</link>
       <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/swift/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SwiftUI</title>
       <link>https://dejajackson.me/tags/swiftui/</link>
       <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/swiftui/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Xcode</title>
       <link>https://dejajackson.me/tags/xcode/</link>
       <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/xcode/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Leaflet</title>
       <link>https://dejajackson.me/tags/leaflet/</link>
       <pubDate>Fri, 06 May 2022 09:36:39 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/leaflet/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>R</title>
       <link>https://dejajackson.me/tags/r/</link>
       <pubDate>Fri, 06 May 2022 09:36:39 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/r/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>RStudio</title>
       <link>https://dejajackson.me/tags/rstudio/</link>
       <pubDate>Fri, 06 May 2022 09:36:39 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/rstudio/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tigris</title>
       <link>https://dejajackson.me/tags/tigris/</link>
       <pubDate>Fri, 06 May 2022 09:36:39 -0400</pubDate>
-      
       <guid>https://dejajackson.me/tags/tigris/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hugo</title>
       <link>https://dejajackson.me/tags/hugo/</link>
       <pubDate>Tue, 10 Aug 2021 21:22:02 -0700</pubDate>
-      
       <guid>https://dejajackson.me/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Static Site Generator</title>
       <link>https://dejajackson.me/tags/static-site-generator/</link>
       <pubDate>Tue, 10 Aug 2021 21:22:02 -0700</pubDate>
-      
       <guid>https://dejajackson.me/tags/static-site-generator/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>C&#43;&#43;</title>
       <link>https://dejajackson.me/tags/c&#43;&#43;/</link>
       <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
-      
       <guid>https://dejajackson.me/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Qt Creator</title>
       <link>https://dejajackson.me/tags/qt-creator/</link>
       <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
-      
       <guid>https://dejajackson.me/tags/qt-creator/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQLite</title>
       <link>https://dejajackson.me/tags/sqlite/</link>
       <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
-      
       <guid>https://dejajackson.me/tags/sqlite/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Objective-C</title>
       <link>https://dejajackson.me/tags/objective-c/</link>
       <pubDate>Thu, 15 Jul 2021 13:08:03 -0700</pubDate>
-      
       <guid>https://dejajackson.me/tags/objective-c/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Vision</title>
       <link>https://dejajackson.me/tags/vision/</link>
       <pubDate>Thu, 15 Jul 2021 13:08:03 -0700</pubDate>
-      
       <guid>https://dejajackson.me/tags/vision/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
