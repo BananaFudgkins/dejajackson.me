@@ -1,12 +1,24 @@
 [
   {
+    "role":"Research Fellow",
+    "company":"[The Global Media Lab](https://sites.google.com/view/lafayetteglobalmedialab/home)",
+    "summary":"Conducting research on the impact of media on election outcomes. Used Python to extract Tanzanian parliamentary election results from a government-provided PDF.",
+    "range":"June 2024 - Present"
+  },
+  {
+    "role":"Consultation Agent",
+    "company":"Best Buy",
+    "summary":"Met with clients during appointments to resolve their technical issues. Shipped and received client devices that were sent to Service Center for a physical repair. Inspected devices that were returned to ensure they were in a condition to be resold.",
+    "range":"October 2023 - May 2023"
+  },
+  {
     "role":"Research Assistant",
     "company":"[Sababi Institute](https://sababi.org/)",
     "summary":"Analyzed survey data collected from field research using Stata. Made corrections to collected data based on feedback from the QC team. Conducted research to assess whether an NGO's problem statement was relevant to their initiative.",
     "range":"July 2023 - October 2023"
   },
   {
-    "role":"Tech Lead and Lab Manager",
+    "role":"Research Assistant",
     "company":"[Gov Lab, Lafayette College](https://sites.lafayette.edu/clarkeaj/gov-lab/)",
     "summary":"Led the tech team of the Gov Lab research group to develop an app that could facilitate a study in line with our experimental design. I wrote an iOS app in SwiftUI while another student wrote a web version of the app. The app shipped on the App Store.",
     "range":"June 2021 - May 2023"
@@ -40,10 +52,5 @@
     "company":"[ABC Archives Project, Lafayette College](https://scalar.lafayette.edu/abcarchives/index)",
     "summary":"Managed the Scalar book the content of the archives were to go in. Oversaw the overall design of the website meant to host the archive.",
     "range":"May 2021 - September 2021"
-  },
-  {
-    "role":"Political Canvasser",
-    "company":"[Zero Week Solutions](https://www.zeroweeksolutions.com/)",
-    "range":"July 2019 - August 2019"
   }
 ]
