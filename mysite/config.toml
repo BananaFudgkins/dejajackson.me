@@ -8,7 +8,7 @@ enableInlineShortcodes = true
   unsafe = true
 
 [params]
-address = "Renton, WA"
+address = "Seattle, WA"
 email = "deja.jackson@dejajackson.me"
 firstName = "Deja"
 lastName = "Jackson"

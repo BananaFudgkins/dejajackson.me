@@ -2,7 +2,7 @@
 title: "Peer2Power"
 date: 2023-04-02T19:23:46-04:00
 featured: true
-description: "An iOS app I wrote in SwiftUI for an undergraduate research project."
+description: "An iOS app I wrote in SwiftUI for an undergraduate research project. The app facilitated a randomized control trial that sought to evaluate the effectiveness of friend to friend recruitment of political campaign volunteers."
 tags: ["SwiftUI","Swift","Xcode","MongoDB","iOS","Peer2Power"]
 image: "/Peer2Power logo.png"
 link: "https://github.com/Peer2Power/peer2power-swiftui"
@@ -26,10 +26,10 @@ In our first run of the study, these contacts would be recruited to volunteer fo
 Once the competition is over, participants will be asked to complete an end-of-study survey indicating which contacts emailed an elected representative.
 
 ### Outreach Attempts
- <img src="/peer2power_screenshots/outreach_attempts.png" alt="Outreach attempts list" width="25%" height="75%"> After generating a list of contacts, participants will log each attempt they made to get a contact to email an elected representative. Every time a participant wants to log an outreach attempt, they will have to answer a survey question asking whether the contact committed to emailing an elected representative. 
+ <img src="/peer2power_screenshots/outreach_attempts.png" alt="Outreach attempts list" width="25%" height="75%">  After generating a list of contacts, participants will log each attempt they made to get a contact to email an elected representative. Every time a participant wants to log an outreach attempt, they will have to answer a survey question asking whether the contact committed to emailing an elected representative. 
 
  ### Leaderboard
- <img src="/peer2power_screenshots/leaderboard.png" alt="Outreach attempts list" width="25%" height="75%"> The units in our study are student organizations on an undergraduate campus. Participants pick a club to serve as their "team" in a campus-wide competition with other clubs. Uploading a contact or logging an outreach attempt will award a participant's team a number of points. The team with the highest number of points will win the competition.
+ <img src="/peer2power_screenshots/leaderboard.png" alt="Outreach attempts list" width="25%" height="75%">  The units in our study are student organizations on an undergraduate campus. Participants pick a club to serve as their "team" in a campus-wide competition with other clubs. Uploading a contact or logging an outreach attempt will award a participant's team a number of points. The team with the highest number of points will win the competition.
 
 ## Backend
 
