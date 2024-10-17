@@ -20,13 +20,13 @@
   {
     "role":"Research Assistant",
     "company":"[Gov Lab, Lafayette College](https://sites.lafayette.edu/clarkeaj/gov-lab/)",
-    "summary":"Led the tech team of the Gov Lab research group to develop an app that could facilitate a study in line with our experimental design. I wrote an iOS app in SwiftUI while another student wrote a web version of the app. The app shipped on the App Store.",
+    "summary":"Developed the iOS app Peer2Power to facilitate a randomized control trial evaluating the impact friend-to-friend recruiting has on willingness to volunteer for political campaigns. I wrote the app in SwiftUI while another student wrote a web version of the app. The app shipped on the App Store. Preliminary analysis suggested we achieved a statistically significant result.",
     "range":"June 2021 - May 2023"
   },
   {
     "role":"Strategy Intern",
     "company":"[PUBLIC](https://www.public.io/)",
-    "summary":"Assisted with an internal research project on One Health, a public health approach that values the intersection between human, animal, and environmental health.",
+    "summary":"Conducted desk research on One Health, a public health approach that emphasizes the intersection between human, animal, and environmental health to identify opportunities available to provide services. My findings were featured in a [company blog post.](https://www.public.io/blog-post/from-policy-to-product-enabling-one-health-through-technology)",
     "range": "June 2022 - July 2022"
   },
   {
