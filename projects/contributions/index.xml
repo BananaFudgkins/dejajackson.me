@@ -13,7 +13,7 @@
       <link>https://dejajackson.me/projects/contributions/researchkitfork/</link>
       <pubDate>Sun, 09 Apr 2023 13:50:46 -0400</pubDate>
       <guid>https://dejajackson.me/projects/contributions/researchkitfork/</guid>
-      <description>I made this fork while developing Peer2Power because I wanted to use the native and well-designed surveys provided by Apple&amp;rsquo;s ResearchKit framework . I ran into issues because ResearchKit was originally created to support medical research. However, the study I was building Peer2Power for did not need any medical information. Even though I was not using any features that accessed medical information, the framework still referenced code that did. This became an issue when I submitted the app to Apple for distribution on the App Store.</description>
+      <description>&lt;p&gt;I made this fork while developing Peer2Power because I wanted to use the native and well-designed surveys provided by Apple&amp;rsquo;s &lt;a href=&#34;https://github.com/ResearchKit/ResearchKit&#34; target=&#34;_blank&#34;&gt;ResearchKit framework&lt;/a&gt;&#xA;. I ran into issues because ResearchKit was originally created to support medical research. However, the study I was building Peer2Power for did not need any medical information. Even though I was not using any features that accessed medical information, the framework still referenced code that did. This became an issue when I submitted the app to Apple for distribution on the App Store. Apple&amp;rsquo;s App Review rejected my app due to the presence of code that accessed medical information. Having any code that does so present requires that you ask permission to access medical information.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

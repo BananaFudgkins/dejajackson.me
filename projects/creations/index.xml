@@ -13,21 +13,21 @@
       <link>https://dejajackson.me/projects/creations/peer2power/</link>
       <pubDate>Sun, 02 Apr 2023 19:23:46 -0400</pubDate>
       <guid>https://dejajackson.me/projects/creations/peer2power/</guid>
-      <description>The Peer2Power app arose out of a need to develop a digital solution that could meet the needs of the undergraduate research group I was part of. The study I participated on was meant to assess the effectiveness of friend-to-friend recruitment of volunteers for political campaigns. Extant literature examined the effect of social pressure on voter turnout but not volunteer recruitment. We modelled our study on a group called Empower, which used an app to collect contact information and for participants to complete tasks relevant to the study.</description>
+      <description>&lt;p&gt;The Peer2Power app arose out of a need to develop a digital solution that could meet the needs of the &lt;a href=&#34;https://sites.lafayette.edu/clarkeaj/gov-lab/&#34; target=&#34;_blank&#34;&gt;undergraduate research group&lt;/a&gt;&#xA; I was part of. The study I participated on was meant to assess the effectiveness of friend-to-friend recruitment of volunteers for political campaigns. Extant literature examined the effect of social pressure on voter turnout but not volunteer recruitment. We modelled our study on a group called Empower, which used an app to collect contact information and for participants to complete tasks relevant to the study. However, Empower&amp;rsquo;s study focused on voter turnout. After surveying civic involvement apps already on the market, we were unable to find one that fit our exact needs. Thus, I developed a custom app that focused on volunteer recruitment, supported random assignment into control and treatment groups, and provided digital surveys we could use to collect relevant data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GOVT 275 Legislative Effectiveness Project</title>
       <link>https://dejajackson.me/projects/creations/govt275project/</link>
       <pubDate>Fri, 06 May 2022 09:36:39 -0400</pubDate>
       <guid>https://dejajackson.me/projects/creations/govt275project/</guid>
-      <description> You can view the interactive map here. </description>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/zKpTUReXn98&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;You can view the interactive map &lt;a href=&#34;https://dejajackson.me/govt275/lesmap.html&#34;&gt;here.&lt;/a&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Webvtt CLI</title>
       <link>https://dejajackson.me/projects/creations/webvtt-cli/</link>
       <pubDate>Sun, 15 Aug 2021 09:24:32 -0700</pubDate>
       <guid>https://dejajackson.me/projects/creations/webvtt-cli/</guid>
-      <description>I wrote this CLI in C++ while I was working with Skillman Library at Lafayette College. For our video captioning workflow, we wrote captions in a spreadsheet. To display subtitles over a video, this spreadsheet would need to be converted into an appropriate VTT file. This tool can take multiple CSV files as input and write them to separate VTT files that can be added to a video.&#xA;This tool can be installed via Homebrew as detailed by the readme here.</description>
+      <description>&lt;p&gt;I wrote this CLI in C++ while I was working with Skillman Library at Lafayette College. For our video captioning workflow, we wrote captions in a spreadsheet. To display subtitles over a video, this spreadsheet would need to be converted into an appropriate VTT file. This tool can take multiple CSV files as input and write them to separate VTT files that can be added to a video.&lt;/p&gt;&#xA;&lt;p&gt;This tool can be installed via Homebrew as detailed by the readme &lt;a href=&#34;https://github.com/LafayetteCollegeLibraries/homebrew-dss&#34; target=&#34;_blank&#34;&gt;here.&lt;/a&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lafayette Digital Repository Metadata Dictionary &amp; Creation Guidelines</title>
@@ -41,14 +41,14 @@
       <link>https://dejajackson.me/projects/creations/cs-205/</link>
       <pubDate>Mon, 19 Jul 2021 22:22:29 -0700</pubDate>
       <guid>https://dejajackson.me/projects/creations/cs-205/</guid>
-      <description>This was the presentation my team and I made of our system called &amp;ldquo;Breadnbutter&amp;rdquo;:&#xA;The primary goal of this project was to create an information system that could connect pet shelters with potential adopters. Millions of pets are euthanized every year due to an inability to find an owner.&#xA;My team and I built this system in Qt Creator and wrote it in C++. I was responsible for the SQL queries our system would make.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://dejajackson.me/breadnbutter/breadnbuttermainwindow.png&#34; alt=&#34;Breadnbutter main window&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This was the presentation my team and I made of our system called &amp;ldquo;Breadnbutter&amp;rdquo;:&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/C8ydNXt80BI&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;The primary goal of this project was to create an information system that could connect pet shelters with potential adopters.&#xA;Millions of pets are euthanized every year due to an inability to find an owner.&lt;/p&gt;&#xA;&lt;p&gt;My team and I built this system in Qt Creator and wrote it in C++. I was responsible for the SQL queries our system would make. I also had to write logic to convert the contents of our SQL database into data types our frontend client could use.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Eyedentify</title>
       <link>https://dejajackson.me/projects/creations/eyedentify/</link>
       <pubDate>Thu, 15 Jul 2021 13:08:03 -0700</pubDate>
       <guid>https://dejajackson.me/projects/creations/eyedentify/</guid>
-      <description>Revolutionary Technology Eyedentify uses Apple&amp;rsquo;s Vision framework for object recognition. Recognition is incredibly fast and done completely on-device, meaning an internet connection is not required.&#xA;Cutting Edge Object Recognition To recognize an object, simply point your phone at whatever object you want to recognize and tap the screen. You can also use voice commands such as &amp;ldquo;What am I looking at?&amp;rdquo; and even translate into other languages with &amp;ldquo;What is this in Italian?</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://dejajackson.me/eyedentify/eyedentify_banner.png&#34; alt=&#34;Eyedentify banner&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;revolutionary-technology&#34;&gt;Revolutionary Technology&lt;/h2&gt;&#xA;&lt;p&gt;Eyedentify uses Apple&amp;rsquo;s Vision framework for object recognition.&#xA;Recognition is incredibly fast and done completely on-device, meaning an internet connection is not required.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://dejajackson.me/eyedentify/eyedentify_screenshot.png&#34; alt=&#34;Eyedentify screenshot&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;cutting-edge-object-recognition&#34;&gt;Cutting Edge Object Recognition&lt;/h2&gt;&#xA;&lt;p&gt;To recognize an object, simply point your phone at whatever object you want to recognize and tap the screen.&#xA;You can also use voice commands such as &amp;ldquo;What am I looking at?&amp;rdquo; and even translate into other languages with &amp;ldquo;What is this in Italian?&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
