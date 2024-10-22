@@ -18,8 +18,9 @@ For this project, I wrote a Python script to go through government PDFs and extr
 
 {{< figure src="/Tanzania/tzelections_parliament_2020_pg1.png" title="The first page of the 2020 election results PDF" >}}
 
+
 ## 2015 Election Results
-{{<csv-to-table "tzelections_parliament2015.csv">}}
+{{<csv-to-table "/Tanzania/tzelections_parliament2015.csv">}}
 
 ## 2020 Election Results
-{{<csv-to-table "tzelections_parliament2020.csv">}}
+{{<csv-to-table "/Tanzania/tzelections_parliament2020.csv">}}
