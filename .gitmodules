@@ -2,3 +2,7 @@
 [submodule "themes/hugo-embed-pdf-shortcode"]
 	path = mysite/themes/hugo-embed-pdf-shortcode
 	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
+[submodule "hugo-resume-fix"]
+	path = mysite/themes/hugo-resume
+	url = https://github.com/Galijanac/hugo-resume.git
+	branch = "Fix-Issue-#104"
