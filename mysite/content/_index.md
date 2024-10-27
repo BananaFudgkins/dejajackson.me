@@ -6,4 +6,4 @@ sitemap:
 draft: true
 ---
 
-I am passionate about technology and leveraging public policy to achieve positive change. I am constantly seeking opportunities to combine these two interests.
+I am passionate about leveraging technology and public policy to achieve positive change. I am constantly seeking opportunities to combine these two interests.
