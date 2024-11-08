@@ -14,4 +14,4 @@ sitemap:
   weight: 0.5
 ---
 
-A collection of presentations I have given and other publications I have been involved in the creation of.
+Presentations I gave and other publications I was involved in the creation of.
