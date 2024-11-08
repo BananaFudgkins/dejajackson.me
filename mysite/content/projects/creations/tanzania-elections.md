@@ -4,7 +4,7 @@ date: 2024-10-16T23:06:06-04:00
 featured: true
 description: "Using Python to extract constituency-level parliamentary election results from government PDFs."
 tags: ["Python", "PDFPlumber"]
-image: ""
+image: "/Tanzania/tza_adm0.png"
 link: ""
 fact: "Interesting little tidbit shown below image on summary and detail page"
 weight: 500
