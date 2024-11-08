@@ -128,7 +128,15 @@
     </figcaption>
 </figure>
 
-<h2 id="2015-election-results">2015 Election Results</h2>
+<h1 id="extracting-the-results">Extracting the Results</h1>
+<p>I began by using the <a href="https://github.com/jsvine/pdfplumber" target="_blank">PDFPlumber library</a>
+ to copy all of the text in the PDF from every page that contained parliamentary election results. After extracting the raw text, I used a series of string operations to find the desired pieces of data and manipulated the text into a form that could be placed into a data table.</p>
+<p>To separate the gathered pieces of data, I used regular expressions after identifying common symbols that could be used as delimiters to split the text.</p>
+<p>After splitting all of the text, I stored it in custom classes. I used classes because of their ability to keep track of relationships between data. I created a class to ensure that each result would be matched with the right candidate and constituency that the election occurred in. The relationships maintained by the classes formed the basis of each row of the resulting <a href="https://pandas.pydata.org/" target="_blank">pandas</a>
+ dataframe.</p>
+<p>I used the dataframe as an intermediate visualization of the extracted data to perform some intial validation of my algorithm. After I verified that the results in the dataframe matched the original contents of the PDF, I used pandas&rsquo; built-in method to extract the dataframe into a CSV that can be used for further analysis by researchers or anyone interested.</p>
+<h1 id="election-results">Election Results</h1>
+<h2 id="2015-results">2015 Results</h2>
 
   
     
@@ -16899,7 +16907,7 @@
     
   
 
-<h2 id="2020-election-results">2020 Election Results</h2>
+<h2 id="2020-results">2020 Results</h2>
 
   
     
@@ -34041,6 +34049,8 @@
       <li><a class="tag" href="/tags/python">Python</a></li>
     
       <li><a class="tag" href="/tags/pdfplumber">PDFPlumber</a></li>
+    
+      <li><a class="tag" href="/tags/pandas">pandas</a></li>
     
 </ul>
 
