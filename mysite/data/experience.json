@@ -1,5 +1,10 @@
 [
   {
+    "role":"Database Support Specialist",
+    "company":"[Be Well Consulting](https://www.bewellconsulting.org/about)",
+    "range":"November 2024 - Present"
+  },
+  {
     "role":"Research Fellow",
     "company":"[The Global Media Lab](https://sites.google.com/view/lafayetteglobalmedialab/home)",
     "summary":"Conducting research on the impact of media on election outcomes. Used Python to extract Tanzanian parliamentary election results from a government-provided PDF.",
